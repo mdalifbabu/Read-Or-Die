@@ -1,0 +1,411 @@
+Book
+	01
+		Name=দিকশূন্যপুরের নিশানা
+		Author=সুনীল গঙ্গোপাধ্যায়
+		Image=https://gdurl.com/QEqz
+		Description=দু’রকম ক্ষয় আমি স্পষ্ট দেখতে পাচ্ছি, মানব সভ্যতার আর আমার শরীরের।
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=06
+	02
+		Name=দিকশূন্যপুরের নিশানা
+		Author=সুনীল গঙ্গোপাধ্যায়
+		Image=https://gdurl.com/QEqz
+		Description=দু’রকম ক্ষয় আমি স্পষ্ট দেখতে পাচ্ছি, মানব সভ্যতার আর আমার শরীরের।
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=07
+	03
+		Name=দিকশূন্যপুরের নিশানা
+		Author=সুনীল গঙ্গোপাধ্যায়
+		Image=https://gdurl.com/QEqz
+		Description=দু’রকম ক্ষয় আমি স্পষ্ট দেখতে পাচ্ছি, মানব সভ্যতার আর আমার শরীরের।
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=05
+	04
+		Name=দিকশূন্যপুরের নিশানা
+		Author=সুনীল গঙ্গোপাধ্যায়
+		Image=https://gdurl.com/QEqz
+		Description=দু’রকম ক্ষয় আমি স্পষ্ট দেখতে পাচ্ছি, মানব সভ্যতার আর আমার শরীরের।
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=04
+	05
+		Name=I am malala
+		Author=Malala Yousafzai
+		Image=https://gdurl.com/1U9J
+		Description=he Story of the Girl Who Stood Up for Education and was Shot by the Taliban is an autobiographical book by Malala Yousafzai, co-written with Christina Lamb.
+		BorrowRate=10
+		SellRate=100
+		DeliveryCost=50
+		Discount=16%
+		MenuId=24
+	06
+		Name=I am malala
+		Author=Malala Yousafzai
+		Image=https://gdurl.com/1U9J
+		Description=he Story of the Girl Who Stood Up for Education and was Shot by the Taliban is an autobiographical book by Malala Yousafzai, co-written with Christina Lamb.
+		BorrowRate=10
+		SellRate=100
+		DeliveryCost=50
+		Discount=16%
+		MenuId=03
+	07
+		Name=I am malala
+		Author=Malala Yousafzai
+		Image=https://gdurl.com/1U9J
+		Description=he Story of the Girl Who Stood Up for Education and was Shot by the Taliban is an autobiographical book by Malala Yousafzai, co-written with Christina Lamb.
+		BorrowRate=10
+		SellRate=100
+		DeliveryCost=50
+		Discount=16%
+		MenuId=01
+	08
+		Name=I am malala
+		Author=Malala Yousafzai
+		Image=https://gdurl.com/1U9J
+		Description=he Story of the Girl Who Stood Up for Education and was Shot by the Taliban is an autobiographical book by Malala Yousafzai, co-written with Christina Lamb.
+		BorrowRate=10
+		SellRate=100
+		DeliveryCost=50
+		Discount=16%
+		MenuId=10
+	09
+		Name=Harry Poter
+		Author=J. K. Rowling
+		Image=https://gdurl.com/XGWk
+		Description=Harry Potter is a series of seven fantasy novels written by British author, J. K. Rowling.
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=04
+	10
+		Name=Harry Poter
+		Author=J. K. Rowling
+		Image=https://gdurl.com/XGWk
+		Description=Harry Potter is a series of seven fantasy novels written by British author, J. K. Rowling.
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=05
+	11
+		Name=Harry Poter
+		Author=J. K. Rowling
+		Image=https://gdurl.com/XGWk
+		Description=Harry Potter is a series of seven fantasy novels written by British author, J. K. Rowling.
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=06
+	12
+		Name=Harry Poter
+		Author=J. K. Rowling
+		Image=https://gdurl.com/XGWk
+		Description=Harry Potter is a series of seven fantasy novels written by British author, J. K. Rowling.
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=01
+	13
+		Name=Harry Poter
+		Author=J. K. Rowling
+		Image=https://gdurl.com/XGWk
+		Description=Harry Potter is a series of seven fantasy novels written by British author, J. K. Rowling.
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=13
+	14
+		Name=Harry Poter
+		Author=J. K. Rowling
+		Image=https://gdurl.com/XGWk
+		Description=Harry Potter is a series of seven fantasy novels written by British author, J. K. Rowling.
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=08
+	15
+		Name=Harry Poter
+		Author=J. K. Rowling
+		Image=https://gdurl.com/XGWk
+		Description=Harry Potter is a series of seven fantasy novels written by British author, J. K. Rowling.
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=09
+	16
+		Name=Harry Poter
+		Author=J. K. Rowling
+		Image=https://gdurl.com/XGWk
+		Description=Harry Potter is a series of seven fantasy novels written by British author, J. K. Rowling.
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=19
+	17
+		Name=Harry Poter
+		Author=J. K. Rowling
+		Image=https://gdurl.com/XGWk
+		Description=Harry Potter is a series of seven fantasy novels written by British author, J. K. Rowling.
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=22
+	18
+		Name=কালবেলা
+		Author=সমরেশ মজুমদার
+		Image=https://gdurl.com/Noxs
+		Description=কালবেলা ভারতীয় কথাসাহিত্যিক সমরেশ মজুমদার লিখিত একটি উপন্যাস যা ১৯৮১-৮২ খ্রিস্টাব্দে দেশ পত্রিকায় প্রথম ধারাবাহিকভাবে প্রকাশিত হয়। ১৯৮৪ খ্রিস্টাব্দে এ উপন্যাসের জন্য লেখক বিখ্যাত আকাদেমি পুরস্কার লাভ করেন। লেখকের ব্যক্তি অভিজ্ঞতার আলোকেই উপন্যাসের প্রেক্ষাপট নির্মিত।
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=22
+	19
+		Name=কালবেলা
+		Author=সমরেশ মজুমদার
+		Image=https://gdurl.com/Noxs
+		Description=কালবেলা ভারতীয় কথাসাহিত্যিক সমরেশ মজুমদার লিখিত একটি উপন্যাস যা ১৯৮১-৮২ খ্রিস্টাব্দে দেশ পত্রিকায় প্রথম ধারাবাহিকভাবে প্রকাশিত হয়। ১৯৮৪ খ্রিস্টাব্দে এ উপন্যাসের জন্য লেখক বিখ্যাত আকাদেমি পুরস্কার লাভ করেন। লেখকের ব্যক্তি অভিজ্ঞতার আলোকেই উপন্যাসের প্রেক্ষাপট নির্মিত।
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=22
+	20
+		Name=কালবেলা
+		Author=সমরেশ মজুমদার
+		Image=https://gdurl.com/Noxs
+		Description=কালবেলা ভারতীয় কথাসাহিত্যিক সমরেশ মজুমদার লিখিত একটি উপন্যাস যা ১৯৮১-৮২ খ্রিস্টাব্দে দেশ পত্রিকায় প্রথম ধারাবাহিকভাবে প্রকাশিত হয়। ১৯৮৪ খ্রিস্টাব্দে এ উপন্যাসের জন্য লেখক বিখ্যাত আকাদেমি পুরস্কার লাভ করেন। লেখকের ব্যক্তি অভিজ্ঞতার আলোকেই উপন্যাসের প্রেক্ষাপট নির্মিত।
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=15
+	21
+		Name=কালবেলা
+		Author=সমরেশ মজুমদার
+		Image=https://gdurl.com/Noxs
+		Description=কালবেলা ভারতীয় কথাসাহিত্যিক সমরেশ মজুমদার লিখিত একটি উপন্যাস যা ১৯৮১-৮২ খ্রিস্টাব্দে দেশ পত্রিকায় প্রথম ধারাবাহিকভাবে প্রকাশিত হয়। ১৯৮৪ খ্রিস্টাব্দে এ উপন্যাসের জন্য লেখক বিখ্যাত আকাদেমি পুরস্কার লাভ করেন। লেখকের ব্যক্তি অভিজ্ঞতার আলোকেই উপন্যাসের প্রেক্ষাপট নির্মিত।
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=24
+	22
+		Name=কালবেলা
+		Author=সমরেশ মজুমদার
+		Image=https://gdurl.com/Noxs
+		Description=কালবেলা ভারতীয় কথাসাহিত্যিক সমরেশ মজুমদার লিখিত একটি উপন্যাস যা ১৯৮১-৮২ খ্রিস্টাব্দে দেশ পত্রিকায় প্রথম ধারাবাহিকভাবে প্রকাশিত হয়। ১৯৮৪ খ্রিস্টাব্দে এ উপন্যাসের জন্য লেখক বিখ্যাত আকাদেমি পুরস্কার লাভ করেন। লেখকের ব্যক্তি অভিজ্ঞতার আলোকেই উপন্যাসের প্রেক্ষাপট নির্মিত।
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=03
+	23
+		Name=কালবেলা
+		Author=সমরেশ মজুমদার
+		Image=https://gdurl.com/Noxs
+		Description=কালবেলা ভারতীয় কথাসাহিত্যিক সমরেশ মজুমদার লিখিত একটি উপন্যাস যা ১৯৮১-৮২ খ্রিস্টাব্দে দেশ পত্রিকায় প্রথম ধারাবাহিকভাবে প্রকাশিত হয়। ১৯৮৪ খ্রিস্টাব্দে এ উপন্যাসের জন্য লেখক বিখ্যাত আকাদেমি পুরস্কার লাভ করেন। লেখকের ব্যক্তি অভিজ্ঞতার আলোকেই উপন্যাসের প্রেক্ষাপট নির্মিত।
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=01
+	24
+		Name=কালবেলা
+		Author=সমরেশ মজুমদার
+		Image=https://gdurl.com/Noxs
+		Description=কালবেলা ভারতীয় কথাসাহিত্যিক সমরেশ মজুমদার লিখিত একটি উপন্যাস যা ১৯৮১-৮২ খ্রিস্টাব্দে দেশ পত্রিকায় প্রথম ধারাবাহিকভাবে প্রকাশিত হয়। ১৯৮৪ খ্রিস্টাব্দে এ উপন্যাসের জন্য লেখক বিখ্যাত আকাদেমি পুরস্কার লাভ করেন। লেখকের ব্যক্তি অভিজ্ঞতার আলোকেই উপন্যাসের প্রেক্ষাপট নির্মিত।
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=09
+	25
+		Name=কালবেলা
+		Author=সমরেশ মজুমদার
+		Image=https://gdurl.com/Noxs
+		Description=কালবেলা ভারতীয় কথাসাহিত্যিক সমরেশ মজুমদার লিখিত একটি উপন্যাস যা ১৯৮১-৮২ খ্রিস্টাব্দে দেশ পত্রিকায় প্রথম ধারাবাহিকভাবে প্রকাশিত হয়। ১৯৮৪ খ্রিস্টাব্দে এ উপন্যাসের জন্য লেখক বিখ্যাত আকাদেমি পুরস্কার লাভ করেন। লেখকের ব্যক্তি অভিজ্ঞতার আলোকেই উপন্যাসের প্রেক্ষাপট নির্মিত।
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=10
+	26
+		Name=কালবেলা
+		Author=সমরেশ মজুমদার
+		Image=https://gdurl.com/Noxs
+		Description=কালবেলা ভারতীয় কথাসাহিত্যিক সমরেশ মজুমদার লিখিত একটি উপন্যাস যা ১৯৮১-৮২ খ্রিস্টাব্দে দেশ পত্রিকায় প্রথম ধারাবাহিকভাবে প্রকাশিত হয়। ১৯৮৪ খ্রিস্টাব্দে এ উপন্যাসের জন্য লেখক বিখ্যাত আকাদেমি পুরস্কার লাভ করেন। লেখকের ব্যক্তি অভিজ্ঞতার আলোকেই উপন্যাসের প্রেক্ষাপট নির্মিত।
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=13
+	27
+		Name=কালবেলা
+		Author=সমরেশ মজুমদার
+		Image=https://gdurl.com/Noxs
+		Description=কালবেলা ভারতীয় কথাসাহিত্যিক সমরেশ মজুমদার লিখিত একটি উপন্যাস যা ১৯৮১-৮২ খ্রিস্টাব্দে দেশ পত্রিকায় প্রথম ধারাবাহিকভাবে প্রকাশিত হয়। ১৯৮৪ খ্রিস্টাব্দে এ উপন্যাসের জন্য লেখক বিখ্যাত আকাদেমি পুরস্কার লাভ করেন। লেখকের ব্যক্তি অভিজ্ঞতার আলোকেই উপন্যাসের প্রেক্ষাপট নির্মিত।
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=06
+	28
+		Name=নৌকাডুবি
+		Author=	রবীন্দ্রনাথ ঠাকুর
+		Image=https://gdurl.com/HmMl
+		Description=নৌকাডুবি বিশ্বকবি রবীন্দ্রনাথ ঠাকুর রচিত একটি সামাজিক উপন্যাস। উপন্যাসটি ১৩১০-১১ বঙ্গাব্দে বঙ্গদর্শন পত্রিকায় প্রকাশিত হয়। নৌকাডুবি উপন্যাসটি লেখা হয়েছে জটিল পারিবারিক সমস্যাগুলিকে কেন্দ্র করে।
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=04
+	29
+		Name=নৌকাডুবি
+		Author=	রবীন্দ্রনাথ ঠাকুর
+		Image=https://gdurl.com/HmMl
+		Description=নৌকাডুবি বিশ্বকবি রবীন্দ্রনাথ ঠাকুর রচিত একটি সামাজিক উপন্যাস। উপন্যাসটি ১৩১০-১১ বঙ্গাব্দে বঙ্গদর্শন পত্রিকায় প্রকাশিত হয়। নৌকাডুবি উপন্যাসটি লেখা হয়েছে জটিল পারিবারিক সমস্যাগুলিকে কেন্দ্র করে।
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=07
+	30
+		Name=নৌকাডুবি
+		Author=	রবীন্দ্রনাথ ঠাকুর
+		Image=https://gdurl.com/HmMl
+		Description=নৌকাডুবি বিশ্বকবি রবীন্দ্রনাথ ঠাকুর রচিত একটি সামাজিক উপন্যাস। উপন্যাসটি ১৩১০-১১ বঙ্গাব্দে বঙ্গদর্শন পত্রিকায় প্রকাশিত হয়। নৌকাডুবি উপন্যাসটি লেখা হয়েছে জটিল পারিবারিক সমস্যাগুলিকে কেন্দ্র করে।
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=06
+	31
+		Name=নৌকাডুবি
+		Author=	রবীন্দ্রনাথ ঠাকুর
+		Image=https://gdurl.com/HmMl
+		Description=নৌকাডুবি বিশ্বকবি রবীন্দ্রনাথ ঠাকুর রচিত একটি সামাজিক উপন্যাস। উপন্যাসটি ১৩১০-১১ বঙ্গাব্দে বঙ্গদর্শন পত্রিকায় প্রকাশিত হয়। নৌকাডুবি উপন্যাসটি লেখা হয়েছে জটিল পারিবারিক সমস্যাগুলিকে কেন্দ্র করে।
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=13
+	32
+		Name=নৌকাডুবি
+		Author=	রবীন্দ্রনাথ ঠাকুর
+		Image=https://gdurl.com/HmMl
+		Description=নৌকাডুবি বিশ্বকবি রবীন্দ্রনাথ ঠাকুর রচিত একটি সামাজিক উপন্যাস। উপন্যাসটি ১৩১০-১১ বঙ্গাব্দে বঙ্গদর্শন পত্রিকায় প্রকাশিত হয়। নৌকাডুবি উপন্যাসটি লেখা হয়েছে জটিল পারিবারিক সমস্যাগুলিকে কেন্দ্র করে।
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=01
+	33
+		Name=শেষের কবিতা
+		Author=	রবীন্দ্রনাথ ঠাকুর
+		Image=https://gdurl.com/BXjE
+		Description=শেষের কবিতা রবীন্দ্রনাথ ঠাকুর রচিত একটি উপন্যাস। রবীন্দ্রনাথের চিত্রসৃষ্টি পর্যায়ের দ্বিতীয় উপন্যাস (প্রথমটি যোগাযোগ) এটি। ১৯২৭ সাল (১৩৩৪ বঙ্গাব্দের ভাদ্র) থেকে ১৯২৮ সাল (১৩৩৪ বঙ্গাব্দের চৈত্র) অবধি প্রবাসীতে ধারাবাহিকভাবে রচনাটি প্রকাশিত হয়।
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=06
+	34
+		Name=শেষের কবিতা
+		Author=	রবীন্দ্রনাথ ঠাকুর
+		Image=https://gdurl.com/BXjE
+		Description=শেষের কবিতা রবীন্দ্রনাথ ঠাকুর রচিত একটি উপন্যাস। রবীন্দ্রনাথের চিত্রসৃষ্টি পর্যায়ের দ্বিতীয় উপন্যাস (প্রথমটি যোগাযোগ) এটি। ১৯২৭ সাল (১৩৩৪ বঙ্গাব্দের ভাদ্র) থেকে ১৯২৮ সাল (১৩৩৪ বঙ্গাব্দের চৈত্র) অবধি প্রবাসীতে ধারাবাহিকভাবে রচনাটি প্রকাশিত হয়।
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=05
+	35
+		Name=শেষের কবিতা
+		Author=	রবীন্দ্রনাথ ঠাকুর
+		Image=https://gdurl.com/BXjE
+		Description=শেষের কবিতা রবীন্দ্রনাথ ঠাকুর রচিত একটি উপন্যাস। রবীন্দ্রনাথের চিত্রসৃষ্টি পর্যায়ের দ্বিতীয় উপন্যাস (প্রথমটি যোগাযোগ) এটি। ১৯২৭ সাল (১৩৩৪ বঙ্গাব্দের ভাদ্র) থেকে ১৯২৮ সাল (১৩৩৪ বঙ্গাব্দের চৈত্র) অবধি প্রবাসীতে ধারাবাহিকভাবে রচনাটি প্রকাশিত হয়।
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=09
+	36
+		Name=শেষের কবিতা
+		Author=	রবীন্দ্রনাথ ঠাকুর
+		Image=https://gdurl.com/BXjE
+		Description=শেষের কবিতা রবীন্দ্রনাথ ঠাকুর রচিত একটি উপন্যাস। রবীন্দ্রনাথের চিত্রসৃষ্টি পর্যায়ের দ্বিতীয় উপন্যাস (প্রথমটি যোগাযোগ) এটি। ১৯২৭ সাল (১৩৩৪ বঙ্গাব্দের ভাদ্র) থেকে ১৯২৮ সাল (১৩৩৪ বঙ্গাব্দের চৈত্র) অবধি প্রবাসীতে ধারাবাহিকভাবে রচনাটি প্রকাশিত হয়।
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=13
+	37
+		Name=শেষের কবিতা
+		Author=	রবীন্দ্রনাথ ঠাকুর
+		Image=https://gdurl.com/BXjE
+		Description=শেষের কবিতা রবীন্দ্রনাথ ঠাকুর রচিত একটি উপন্যাস। রবীন্দ্রনাথের চিত্রসৃষ্টি পর্যায়ের দ্বিতীয় উপন্যাস (প্রথমটি যোগাযোগ) এটি। ১৯২৭ সাল (১৩৩৪ বঙ্গাব্দের ভাদ্র) থেকে ১৯২৮ সাল (১৩৩৪ বঙ্গাব্দের চৈত্র) অবধি প্রবাসীতে ধারাবাহিকভাবে রচনাটি প্রকাশিত হয়।
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=18
+	38
+		Name=শেষের কবিতা
+		Author=	রবীন্দ্রনাথ ঠাকুর
+		Image=https://gdurl.com/BXjE
+		Description=শেষের কবিতা রবীন্দ্রনাথ ঠাকুর রচিত একটি উপন্যাস। রবীন্দ্রনাথের চিত্রসৃষ্টি পর্যায়ের দ্বিতীয় উপন্যাস (প্রথমটি যোগাযোগ) এটি। ১৯২৭ সাল (১৩৩৪ বঙ্গাব্দের ভাদ্র) থেকে ১৯২৮ সাল (১৩৩৪ বঙ্গাব্দের চৈত্র) অবধি প্রবাসীতে ধারাবাহিকভাবে রচনাটি প্রকাশিত হয়।
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=19
+	39
+		Name=শেষের কবিতা
+		Author=	রবীন্দ্রনাথ ঠাকুর
+		Image=https://gdurl.com/BXjE
+		Description=শেষের কবিতা রবীন্দ্রনাথ ঠাকুর রচিত একটি উপন্যাস। রবীন্দ্রনাথের চিত্রসৃষ্টি পর্যায়ের দ্বিতীয় উপন্যাস (প্রথমটি যোগাযোগ) এটি। ১৯২৭ সাল (১৩৩৪ বঙ্গাব্দের ভাদ্র) থেকে ১৯২৮ সাল (১৩৩৪ বঙ্গাব্দের চৈত্র) অবধি প্রবাসীতে ধারাবাহিকভাবে রচনাটি প্রকাশিত হয়।
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=20
+	40
+		Name=শেষের কবিতা
+		Author=	রবীন্দ্রনাথ ঠাকুর
+		Image=https://gdurl.com/BXjE
+		Description=শেষের কবিতা রবীন্দ্রনাথ ঠাকুর রচিত একটি উপন্যাস। রবীন্দ্রনাথের চিত্রসৃষ্টি পর্যায়ের দ্বিতীয় উপন্যাস (প্রথমটি যোগাযোগ) এটি। ১৯২৭ সাল (১৩৩৪ বঙ্গাব্দের ভাদ্র) থেকে ১৯২৮ সাল (১৩৩৪ বঙ্গাব্দের চৈত্র) অবধি প্রবাসীতে ধারাবাহিকভাবে রচনাটি প্রকাশিত হয়।
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=22
+	41
+		Name=শেষের কবিতা
+		Author=	রবীন্দ্রনাথ ঠাকুর
+		Image=https://gdurl.com/BXjE
+		Description=শেষের কবিতা রবীন্দ্রনাথ ঠাকুর রচিত একটি উপন্যাস। রবীন্দ্রনাথের চিত্রসৃষ্টি পর্যায়ের দ্বিতীয় উপন্যাস (প্রথমটি যোগাযোগ) এটি। ১৯২৭ সাল (১৩৩৪ বঙ্গাব্দের ভাদ্র) থেকে ১৯২৮ সাল (১৩৩৪ বঙ্গাব্দের চৈত্র) অবধি প্রবাসীতে ধারাবাহিকভাবে রচনাটি প্রকাশিত হয়।
+		BorrowRate=0
+		SellRate=100
+		DeliveryCost=50
+		Discount=15%
+		MenuId=24

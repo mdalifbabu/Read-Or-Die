@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Read or Die</string>
+
+    <string name="slogan">Take a good book to bed with you—books do not snore.</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!-- Name -->
+    <string name="alif">
+        Md. Alif Babu\n
+        181-15-10730\n
+        Backend Developer
+    </string>
+
+    <string name="nahid">
+        Md. Nahid hasan\n
+        181-15-10875\n
+        Backend Developer
+    </string>
+
+    <string name="kabbo">
+        Md. Shahriar Kabbo\n
+        181-15-10494\n
+        Frontend Developer
+    </string>
+
+    <string name="kundu">
+        Avijit Kundu\n
+        152-15-5986\n
+        Frontend Developer
+    </string>
+
+</resources>

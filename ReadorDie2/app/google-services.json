@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "290837683802",
+    "firebase_url": "https://read-or-die-default-rtdb.firebaseio.com",
+    "project_id": "read-or-die",
+    "storage_bucket": "read-or-die.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290837683802:android:d8a58070658fb34c818263",
+        "android_client_info": {
+          "package_name": "com.example.readordie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290837683802-0mt3nc47oiglfolp7ivee3v8vmi1pmga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.readordie",
+            "certificate_hash": "e09564517cd1cb97ded3e1dd4c2c3003d1e6b41b"
+          }
+        },
+        {
+          "client_id": "290837683802-ve5mt2re1oheturd1pukk36e12ngd5e5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3rK-y4APHsS1zr9k7j-DOcuba4pVyxXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290837683802-ve5mt2re1oheturd1pukk36e12ngd5e5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

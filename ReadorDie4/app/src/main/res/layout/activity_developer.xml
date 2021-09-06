@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/developerback"
+    android:weightSum="4"
+    tools:context=".Developer">
+
+
+    <Button
+        android:backgroundTint="@color/color_primary"
+        android:layout_margin="20dp"
+        android:id="@+id/buttonAlif"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="@string/alif"
+        android:drawableLeft="@drawable/alif"
+        />
+    <Button
+        android:backgroundTint="#2196F3"
+        android:layout_margin="20dp"
+        android:id="@+id/buttonKabbo"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:drawableLeft="@drawable/kabbo"
+        android:text="@string/kabbo" />
+
+    <Button
+        android:backgroundTint="@color/btn_sign_up"
+        android:layout_margin="20dp"
+        android:id="@+id/buttonNahid"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:drawableLeft="@drawable/nahid"
+        android:text="@string/nahid" />
+
+    <Button
+        android:backgroundTint="@color/purple_200"
+        android:layout_margin="20dp"
+        android:id="@+id/buttonKundu"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:drawableLeft="@drawable/kundu"
+        android:text="@string/kundu" />
+
+</LinearLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "690786175346",
+    "project_id": "read-or-die1",
+    "storage_bucket": "read-or-die1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690786175346:android:0e737a625bb0602a0335eb",
+        "android_client_info": {
+          "package_name": "com.example.readordie1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690786175346-eb7o5r6vmnentvrjgvaig191s4214l3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMMZ5TY1BG-kgA9DbwutYT3umiuFQNkJA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690786175346-eb7o5r6vmnentvrjgvaig191s4214l3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

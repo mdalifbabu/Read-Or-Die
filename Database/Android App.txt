@@ -1,0 +1,69 @@
+Name: Read or Die
+
+First Step:
+	- Main Screen
+	- Login
+	- Register
+	- Create Database with Firebase
+		- Table(Phone Number(Key), Name, Password)
+
+Second Step:
+	- Design Menu Layout
+	- Using FirebaseUI to Building Data to Menu Layout
+	- Add Category data to Firebase Database
+
+	1. Add Category Data to Firebase Data:
+	For Image Sharing Use: https://gdurl.com/
+
+	
+	- 01 - Popular = https://gdurl.com/W12C
+	- 02 - New = https://gdurl.com/xNrK
+	- 03 - Political = https://gdurl.com/WOSdA
+	- 04 - Drama = https://gdurl.com/N8fo
+	- 05 - Poetry = https://gdurl.com/bsPz
+	- 06 - Novel = https://gdurl.com/ZPSx
+	- 07 - Literature = https://gdurl.com/efZM
+	- 08 - Romantic = https://gdurl.com/E2jDM
+	- 09 - Love Story = https://gdurl.com/7P-C
+	- 10 - Tragedy = https://gdurl.com/5eIw
+	- 11 - Religious = https://gdurl.com/QYLR
+	- 12 - Contstitutional = https://gdurl.com/qx5s
+	- 13 - Historic = https://gdurl.com/24qI
+	- 14 - Academic = https://gdurl.com/Hdzd
+	- 15 - True Story = https://gdurl.com/nXDg
+	- 16 - Short Story = https://gdurl.com/dySo
+	- 17 - Quotes = https://gdurl.com/d9CR
+	- 18 - Science = https://gdurl.com/QGXQ
+	- 19 - Arts = https://gdurl.com/JHwK
+	- 20 - Commerce = https://gdurl.com/eyhVz
+	- 21 - Business = https://gdurl.com/GOdk
+	- 22 - Motivational = https://gdurl.com/g-D0
+	- 23 - Life Style = https://gdurl.com/bNfQ
+	- 24 - Self Story = https://gdurl.com/Yx2W
+	
+
+
+Third Step:
+	- Added Book DataBase
+	- Collected Book Information
+	- Book Name
+	- Book Image
+	- Book Description
+	- Book Borrow Rate
+	- Book Sellrate
+	- Book Delivery Cost
+	- Book Discount
+	- Book MenuId(References to CategoryId)
+
+Forth Step:
+	- Book Details Add
+	- Design and Elegant
+	- Added Recycler Adapter
+
+Fourth Step
+	- Added Cart
+	- Order Place
+	- Designed Cart View
+	- Added Recycler Adapter
+
+Our Android Developing will be continue...

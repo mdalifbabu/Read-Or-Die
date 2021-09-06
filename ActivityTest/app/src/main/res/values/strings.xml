@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Activity Test</string>
+
+    <string name="btn1">Fuck First</string>
+    <string name="btn2">Fuck Second</string>
+    <string name="btn3">Fuck Third</string>
+    <string name="btn4">Fuck Fourth</string>
+
+    <string name="text_1">Fuck First Love</string>
+    <string name="text_2">Fuck Second Love</string>
+    <string name="text_3">Fuck Third Love</string>
+    <string name="text_4">Fuck Fourth Love</string>
+
+</resources>

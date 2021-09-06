@@ -1,0 +1,559 @@
+{
+  "Books" : {
+    "01" : {
+      "Author" : "সুনীল গঙ্গোপাধ্যায়",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "দু’রকম ক্ষয় আমি স্পষ্ট দেখতে পাচ্ছি, মানব সভ্যতার আর আমার শরীরের।",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/QEqz",
+      "MenuId" : "06",
+      "Name" : "দিকশূন্যপুরের নিশানা",
+      "SellRate" : "100"
+    },
+    "02" : {
+      "Author" : "সুনীল গঙ্গোপাধ্যায়",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "দু’রকম ক্ষয় আমি স্পষ্ট দেখতে পাচ্ছি, মানব সভ্যতার আর আমার শরীরের।",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/QEqz",
+      "MenuId" : "07",
+      "Name" : "দিকশূন্যপুরের নিশানা",
+      "SellRate" : "100"
+    },
+    "03" : {
+      "Author" : "সুনীল গঙ্গোপাধ্যায়",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "দু’রকম ক্ষয় আমি স্পষ্ট দেখতে পাচ্ছি, মানব সভ্যতার আর আমার শরীরের।",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/QEqz",
+      "MenuId" : "05",
+      "Name" : "দিকশূন্যপুরের নিশানা",
+      "SellRate" : "100"
+    },
+    "04" : {
+      "Author" : "সুনীল গঙ্গোপাধ্যায়",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "দু’রকম ক্ষয় আমি স্পষ্ট দেখতে পাচ্ছি, মানব সভ্যতার আর আমার শরীরের।",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/QEqz",
+      "MenuId" : "04",
+      "Name" : "দিকশূন্যপুরের নিশানা",
+      "SellRate" : "100"
+    },
+    "05" : {
+      "Author" : "Malala Yousafzai",
+      "BorrowRate" : "10",
+      "DeliveryCost" : "50",
+      "Description" : "he Story of the Girl Who Stood Up for Education and was Shot by the Taliban is an autobiographical book by Malala Yousafzai, co-written with Christina Lamb.",
+      "Discount" : "16%",
+      "Image" : "https://gdurl.com/1U9J",
+      "MenuId" : "24",
+      "Name" : "I am malala",
+      "SellRate" : "100"
+    },
+    "06" : {
+      "Author" : "Malala Yousafzai",
+      "BorrowRate" : "10",
+      "DeliveryCost" : "50",
+      "Description" : "he Story of the Girl Who Stood Up for Education and was Shot by the Taliban is an autobiographical book by Malala Yousafzai, co-written with Christina Lamb.",
+      "Discount" : "16%",
+      "Image" : "https://gdurl.com/1U9J",
+      "MenuId" : "03",
+      "Name" : "I am malala",
+      "SellRate" : "100"
+    },
+    "07" : {
+      "Author" : "Malala Yousafzai",
+      "BorrowRate" : "10",
+      "DeliveryCost" : "50",
+      "Description" : "he Story of the Girl Who Stood Up for Education and was Shot by the Taliban is an autobiographical book by Malala Yousafzai, co-written with Christina Lamb.",
+      "Discount" : "16%",
+      "Image" : "https://gdurl.com/1U9J",
+      "MenuId" : "01",
+      "Name" : "I am malala",
+      "SellRate" : "100"
+    },
+    "08" : {
+      "Author" : "Malala Yousafzai",
+      "BorrowRate" : "10",
+      "DeliveryCost" : "50",
+      "Description" : "he Story of the Girl Who Stood Up for Education and was Shot by the Taliban is an autobiographical book by Malala Yousafzai, co-written with Christina Lamb.",
+      "Discount" : "16%",
+      "Image" : "https://gdurl.com/1U9J",
+      "MenuId" : "10",
+      "Name" : "I am malala",
+      "SellRate" : "100"
+    },
+    "09" : {
+      "Author" : "J. K. Rowling",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "Harry Potter is a series of seven fantasy novels written by British author, J. K. Rowling.",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/XGWk",
+      "MenuId" : "04",
+      "Name" : "Harry Poter",
+      "SellRate" : "100"
+    },
+    "10" : {
+      "Author" : "J. K. Rowling",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "Harry Potter is a series of seven fantasy novels written by British author, J. K. Rowling.",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/XGWk",
+      "MenuId" : "05",
+      "Name" : "Harry Poter",
+      "SellRate" : "100"
+    },
+    "11" : {
+      "Author" : "J. K. Rowling",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "Harry Potter is a series of seven fantasy novels written by British author, J. K. Rowling.",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/XGWk",
+      "MenuId" : "06",
+      "Name" : "Harry Poter",
+      "SellRate" : "100"
+    },
+    "12" : {
+      "Author" : "J. K. Rowling",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "Harry Potter is a series of seven fantasy novels written by British author, J. K. Rowling.",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/XGWk",
+      "MenuId" : "01",
+      "Name" : "Harry Poter",
+      "SellRate" : "100"
+    },
+    "13" : {
+      "Author" : "J. K. Rowling",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "Harry Potter is a series of seven fantasy novels written by British author, J. K. Rowling.",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/XGWk",
+      "MenuId" : "13",
+      "Name" : "Harry Poter",
+      "SellRate" : "100"
+    },
+    "14" : {
+      "Author" : "J. K. Rowling",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "Harry Potter is a series of seven fantasy novels written by British author, J. K. Rowling.",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/XGWk",
+      "MenuId" : "08",
+      "Name" : "Harry Poter",
+      "SellRate" : "100"
+    },
+    "15" : {
+      "Author" : "J. K. Rowling",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "Harry Potter is a series of seven fantasy novels written by British author, J. K. Rowling.",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/XGWk",
+      "MenuId" : "09",
+      "Name" : "Harry Poter",
+      "SellRate" : "100"
+    },
+    "16" : {
+      "Author" : "J. K. Rowling",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "Harry Potter is a series of seven fantasy novels written by British author, J. K. Rowling.",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/XGWk",
+      "MenuId" : "19",
+      "Name" : "Harry Poter",
+      "SellRate" : "100"
+    },
+    "17" : {
+      "Author" : "J. K. Rowling",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "Harry Potter is a series of seven fantasy novels written by British author, J. K. Rowling.",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/XGWk",
+      "MenuId" : "22",
+      "Name" : "Harry Poter",
+      "SellRate" : "100"
+    },
+    "18" : {
+      "Author" : "সমরেশ মজুমদার",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "কালবেলা ভারতীয় কথাসাহিত্যিক সমরেশ মজুমদার লিখিত একটি উপন্যাস যা ১৯৮১-৮২ খ্রিস্টাব্দে দেশ পত্রিকায় প্রথম ধারাবাহিকভাবে প্রকাশিত হয়। ১৯৮৪ খ্রিস্টাব্দে এ উপন্যাসের জন্য লেখক বিখ্যাত আকাদেমি পুরস্কার লাভ করেন। লেখকের ব্যক্তি অভিজ্ঞতার আলোকেই উপন্যাসের প্রেক্ষাপট নির্মিত।",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/Noxs",
+      "MenuId" : "22",
+      "Name" : "কালবেলা",
+      "SellRate" : "100"
+    },
+    "19" : {
+      "Author" : "সমরেশ মজুমদার",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "কালবেলা ভারতীয় কথাসাহিত্যিক সমরেশ মজুমদার লিখিত একটি উপন্যাস যা ১৯৮১-৮২ খ্রিস্টাব্দে দেশ পত্রিকায় প্রথম ধারাবাহিকভাবে প্রকাশিত হয়। ১৯৮৪ খ্রিস্টাব্দে এ উপন্যাসের জন্য লেখক বিখ্যাত আকাদেমি পুরস্কার লাভ করেন। লেখকের ব্যক্তি অভিজ্ঞতার আলোকেই উপন্যাসের প্রেক্ষাপট নির্মিত।",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/Noxs",
+      "MenuId" : "22",
+      "Name" : "কালবেলা",
+      "SellRate" : "100"
+    },
+    "20" : {
+      "Author" : "সমরেশ মজুমদার",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "কালবেলা ভারতীয় কথাসাহিত্যিক সমরেশ মজুমদার লিখিত একটি উপন্যাস যা ১৯৮১-৮২ খ্রিস্টাব্দে দেশ পত্রিকায় প্রথম ধারাবাহিকভাবে প্রকাশিত হয়। ১৯৮৪ খ্রিস্টাব্দে এ উপন্যাসের জন্য লেখক বিখ্যাত আকাদেমি পুরস্কার লাভ করেন। লেখকের ব্যক্তি অভিজ্ঞতার আলোকেই উপন্যাসের প্রেক্ষাপট নির্মিত।",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/Noxs",
+      "MenuId" : "15",
+      "Name" : "কালবেলা",
+      "SellRate" : "100"
+    },
+    "21" : {
+      "Author" : "সমরেশ মজুমদার",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "কালবেলা ভারতীয় কথাসাহিত্যিক সমরেশ মজুমদার লিখিত একটি উপন্যাস যা ১৯৮১-৮২ খ্রিস্টাব্দে দেশ পত্রিকায় প্রথম ধারাবাহিকভাবে প্রকাশিত হয়। ১৯৮৪ খ্রিস্টাব্দে এ উপন্যাসের জন্য লেখক বিখ্যাত আকাদেমি পুরস্কার লাভ করেন। লেখকের ব্যক্তি অভিজ্ঞতার আলোকেই উপন্যাসের প্রেক্ষাপট নির্মিত।",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/Noxs",
+      "MenuId" : "24",
+      "Name" : "কালবেলা",
+      "SellRate" : "100"
+    },
+    "22" : {
+      "Author" : "সমরেশ মজুমদার",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "কালবেলা ভারতীয় কথাসাহিত্যিক সমরেশ মজুমদার লিখিত একটি উপন্যাস যা ১৯৮১-৮২ খ্রিস্টাব্দে দেশ পত্রিকায় প্রথম ধারাবাহিকভাবে প্রকাশিত হয়। ১৯৮৪ খ্রিস্টাব্দে এ উপন্যাসের জন্য লেখক বিখ্যাত আকাদেমি পুরস্কার লাভ করেন। লেখকের ব্যক্তি অভিজ্ঞতার আলোকেই উপন্যাসের প্রেক্ষাপট নির্মিত।",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/Noxs",
+      "MenuId" : "03",
+      "Name" : "কালবেলা",
+      "SellRate" : "100"
+    },
+    "23" : {
+      "Author" : "সমরেশ মজুমদার",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "কালবেলা ভারতীয় কথাসাহিত্যিক সমরেশ মজুমদার লিখিত একটি উপন্যাস যা ১৯৮১-৮২ খ্রিস্টাব্দে দেশ পত্রিকায় প্রথম ধারাবাহিকভাবে প্রকাশিত হয়। ১৯৮৪ খ্রিস্টাব্দে এ উপন্যাসের জন্য লেখক বিখ্যাত আকাদেমি পুরস্কার লাভ করেন। লেখকের ব্যক্তি অভিজ্ঞতার আলোকেই উপন্যাসের প্রেক্ষাপট নির্মিত।",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/Noxs",
+      "MenuId" : "01",
+      "Name" : "কালবেলা",
+      "SellRate" : "100"
+    },
+    "24" : {
+      "Author" : "সমরেশ মজুমদার",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "কালবেলা ভারতীয় কথাসাহিত্যিক সমরেশ মজুমদার লিখিত একটি উপন্যাস যা ১৯৮১-৮২ খ্রিস্টাব্দে দেশ পত্রিকায় প্রথম ধারাবাহিকভাবে প্রকাশিত হয়। ১৯৮৪ খ্রিস্টাব্দে এ উপন্যাসের জন্য লেখক বিখ্যাত আকাদেমি পুরস্কার লাভ করেন। লেখকের ব্যক্তি অভিজ্ঞতার আলোকেই উপন্যাসের প্রেক্ষাপট নির্মিত।",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/Noxs",
+      "MenuId" : "09",
+      "Name" : "কালবেলা",
+      "SellRate" : "100"
+    },
+    "25" : {
+      "Author" : "সমরেশ মজুমদার",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "কালবেলা ভারতীয় কথাসাহিত্যিক সমরেশ মজুমদার লিখিত একটি উপন্যাস যা ১৯৮১-৮২ খ্রিস্টাব্দে দেশ পত্রিকায় প্রথম ধারাবাহিকভাবে প্রকাশিত হয়। ১৯৮৪ খ্রিস্টাব্দে এ উপন্যাসের জন্য লেখক বিখ্যাত আকাদেমি পুরস্কার লাভ করেন। লেখকের ব্যক্তি অভিজ্ঞতার আলোকেই উপন্যাসের প্রেক্ষাপট নির্মিত।",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/Noxs",
+      "MenuId" : "10",
+      "Name" : "কালবেলা",
+      "SellRate" : "100"
+    },
+    "26" : {
+      "Author" : "সমরেশ মজুমদার",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "কালবেলা ভারতীয় কথাসাহিত্যিক সমরেশ মজুমদার লিখিত একটি উপন্যাস যা ১৯৮১-৮২ খ্রিস্টাব্দে দেশ পত্রিকায় প্রথম ধারাবাহিকভাবে প্রকাশিত হয়। ১৯৮৪ খ্রিস্টাব্দে এ উপন্যাসের জন্য লেখক বিখ্যাত আকাদেমি পুরস্কার লাভ করেন। লেখকের ব্যক্তি অভিজ্ঞতার আলোকেই উপন্যাসের প্রেক্ষাপট নির্মিত।",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/Noxs",
+      "MenuId" : "13",
+      "Name" : "কালবেলা",
+      "SellRate" : "100"
+    },
+    "27" : {
+      "Author" : "সমরেশ মজুমদার",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "কালবেলা ভারতীয় কথাসাহিত্যিক সমরেশ মজুমদার লিখিত একটি উপন্যাস যা ১৯৮১-৮২ খ্রিস্টাব্দে দেশ পত্রিকায় প্রথম ধারাবাহিকভাবে প্রকাশিত হয়। ১৯৮৪ খ্রিস্টাব্দে এ উপন্যাসের জন্য লেখক বিখ্যাত আকাদেমি পুরস্কার লাভ করেন। লেখকের ব্যক্তি অভিজ্ঞতার আলোকেই উপন্যাসের প্রেক্ষাপট নির্মিত।",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/Noxs",
+      "MenuId" : "06",
+      "Name" : "কালবেলা",
+      "SellRate" : "100"
+    },
+    "28" : {
+      "Author" : "রবীন্দ্রনাথ ঠাকুর",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "নৌকাডুবি বিশ্বকবি রবীন্দ্রনাথ ঠাকুর রচিত একটি সামাজিক উপন্যাস। উপন্যাসটি ১৩১০-১১ বঙ্গাব্দে বঙ্গদর্শন পত্রিকায় প্রকাশিত হয়। নৌকাডুবি উপন্যাসটি লেখা হয়েছে জটিল পারিবারিক সমস্যাগুলিকে কেন্দ্র করে।",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/HmMl",
+      "MenuId" : "04",
+      "Name" : "নৌকাডুবি",
+      "SellRate" : "100"
+    },
+    "29" : {
+      "Author" : "রবীন্দ্রনাথ ঠাকুর",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "নৌকাডুবি বিশ্বকবি রবীন্দ্রনাথ ঠাকুর রচিত একটি সামাজিক উপন্যাস। উপন্যাসটি ১৩১০-১১ বঙ্গাব্দে বঙ্গদর্শন পত্রিকায় প্রকাশিত হয়। নৌকাডুবি উপন্যাসটি লেখা হয়েছে জটিল পারিবারিক সমস্যাগুলিকে কেন্দ্র করে।",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/HmMl",
+      "MenuId" : "07",
+      "Name" : "নৌকাডুবি",
+      "SellRate" : "100"
+    },
+    "30" : {
+      "Author" : "রবীন্দ্রনাথ ঠাকুর",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "নৌকাডুবি বিশ্বকবি রবীন্দ্রনাথ ঠাকুর রচিত একটি সামাজিক উপন্যাস। উপন্যাসটি ১৩১০-১১ বঙ্গাব্দে বঙ্গদর্শন পত্রিকায় প্রকাশিত হয়। নৌকাডুবি উপন্যাসটি লেখা হয়েছে জটিল পারিবারিক সমস্যাগুলিকে কেন্দ্র করে।",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/HmMl",
+      "MenuId" : "06",
+      "Name" : "নৌকাডুবি",
+      "SellRate" : "100"
+    },
+    "31" : {
+      "Author" : "রবীন্দ্রনাথ ঠাকুর",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "নৌকাডুবি বিশ্বকবি রবীন্দ্রনাথ ঠাকুর রচিত একটি সামাজিক উপন্যাস। উপন্যাসটি ১৩১০-১১ বঙ্গাব্দে বঙ্গদর্শন পত্রিকায় প্রকাশিত হয়। নৌকাডুবি উপন্যাসটি লেখা হয়েছে জটিল পারিবারিক সমস্যাগুলিকে কেন্দ্র করে।",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/HmMl",
+      "MenuId" : "13",
+      "Name" : "নৌকাডুবি",
+      "SellRate" : "100"
+    },
+    "32" : {
+      "Author" : "রবীন্দ্রনাথ ঠাকুর",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "নৌকাডুবি বিশ্বকবি রবীন্দ্রনাথ ঠাকুর রচিত একটি সামাজিক উপন্যাস। উপন্যাসটি ১৩১০-১১ বঙ্গাব্দে বঙ্গদর্শন পত্রিকায় প্রকাশিত হয়। নৌকাডুবি উপন্যাসটি লেখা হয়েছে জটিল পারিবারিক সমস্যাগুলিকে কেন্দ্র করে।",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/HmMl",
+      "MenuId" : "01",
+      "Name" : "নৌকাডুবি",
+      "SellRate" : "100"
+    },
+    "33" : {
+      "Author" : "রবীন্দ্রনাথ ঠাকুর",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "শেষের কবিতা রবীন্দ্রনাথ ঠাকুর রচিত একটি উপন্যাস। রবীন্দ্রনাথের চিত্রসৃষ্টি পর্যায়ের দ্বিতীয় উপন্যাস (প্রথমটি যোগাযোগ) এটি। ১৯২৭ সাল (১৩৩৪ বঙ্গাব্দের ভাদ্র) থেকে ১৯২৮ সাল (১৩৩৪ বঙ্গাব্দের চৈত্র) অবধি প্রবাসীতে ধারাবাহিকভাবে রচনাটি প্রকাশিত হয়।",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/BXjE",
+      "MenuId" : "06",
+      "Name" : "শেষের কবিতা",
+      "SellRate" : "100"
+    },
+    "34" : {
+      "Author" : "রবীন্দ্রনাথ ঠাকুর",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "শেষের কবিতা রবীন্দ্রনাথ ঠাকুর রচিত একটি উপন্যাস। রবীন্দ্রনাথের চিত্রসৃষ্টি পর্যায়ের দ্বিতীয় উপন্যাস (প্রথমটি যোগাযোগ) এটি। ১৯২৭ সাল (১৩৩৪ বঙ্গাব্দের ভাদ্র) থেকে ১৯২৮ সাল (১৩৩৪ বঙ্গাব্দের চৈত্র) অবধি প্রবাসীতে ধারাবাহিকভাবে রচনাটি প্রকাশিত হয়।",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/BXjE",
+      "MenuId" : "05",
+      "Name" : "শেষের কবিতা",
+      "SellRate" : "100"
+    },
+    "35" : {
+      "Author" : "রবীন্দ্রনাথ ঠাকুর",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "শেষের কবিতা রবীন্দ্রনাথ ঠাকুর রচিত একটি উপন্যাস। রবীন্দ্রনাথের চিত্রসৃষ্টি পর্যায়ের দ্বিতীয় উপন্যাস (প্রথমটি যোগাযোগ) এটি। ১৯২৭ সাল (১৩৩৪ বঙ্গাব্দের ভাদ্র) থেকে ১৯২৮ সাল (১৩৩৪ বঙ্গাব্দের চৈত্র) অবধি প্রবাসীতে ধারাবাহিকভাবে রচনাটি প্রকাশিত হয়।",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/BXjE",
+      "MenuId" : "09",
+      "Name" : "শেষের কবিতা",
+      "SellRate" : "100"
+    },
+    "36" : {
+      "Author" : "রবীন্দ্রনাথ ঠাকুর",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "শেষের কবিতা রবীন্দ্রনাথ ঠাকুর রচিত একটি উপন্যাস। রবীন্দ্রনাথের চিত্রসৃষ্টি পর্যায়ের দ্বিতীয় উপন্যাস (প্রথমটি যোগাযোগ) এটি। ১৯২৭ সাল (১৩৩৪ বঙ্গাব্দের ভাদ্র) থেকে ১৯২৮ সাল (১৩৩৪ বঙ্গাব্দের চৈত্র) অবধি প্রবাসীতে ধারাবাহিকভাবে রচনাটি প্রকাশিত হয়।",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/BXjE",
+      "MenuId" : "13",
+      "Name" : "শেষের কবিতা",
+      "SellRate" : "100"
+    },
+    "37" : {
+      "Author" : "রবীন্দ্রনাথ ঠাকুর",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "শেষের কবিতা রবীন্দ্রনাথ ঠাকুর রচিত একটি উপন্যাস। রবীন্দ্রনাথের চিত্রসৃষ্টি পর্যায়ের দ্বিতীয় উপন্যাস (প্রথমটি যোগাযোগ) এটি। ১৯২৭ সাল (১৩৩৪ বঙ্গাব্দের ভাদ্র) থেকে ১৯২৮ সাল (১৩৩৪ বঙ্গাব্দের চৈত্র) অবধি প্রবাসীতে ধারাবাহিকভাবে রচনাটি প্রকাশিত হয়।",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/BXjE",
+      "MenuId" : "18",
+      "Name" : "শেষের কবিতা",
+      "SellRate" : "100"
+    },
+    "38" : {
+      "Author" : "রবীন্দ্রনাথ ঠাকুর",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "শেষের কবিতা রবীন্দ্রনাথ ঠাকুর রচিত একটি উপন্যাস। রবীন্দ্রনাথের চিত্রসৃষ্টি পর্যায়ের দ্বিতীয় উপন্যাস (প্রথমটি যোগাযোগ) এটি। ১৯২৭ সাল (১৩৩৪ বঙ্গাব্দের ভাদ্র) থেকে ১৯২৮ সাল (১৩৩৪ বঙ্গাব্দের চৈত্র) অবধি প্রবাসীতে ধারাবাহিকভাবে রচনাটি প্রকাশিত হয়।",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/BXjE",
+      "MenuId" : "19",
+      "Name" : "শেষের কবিতা",
+      "SellRate" : "100"
+    },
+    "39" : {
+      "Author" : "রবীন্দ্রনাথ ঠাকুর",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "শেষের কবিতা রবীন্দ্রনাথ ঠাকুর রচিত একটি উপন্যাস। রবীন্দ্রনাথের চিত্রসৃষ্টি পর্যায়ের দ্বিতীয় উপন্যাস (প্রথমটি যোগাযোগ) এটি। ১৯২৭ সাল (১৩৩৪ বঙ্গাব্দের ভাদ্র) থেকে ১৯২৮ সাল (১৩৩৪ বঙ্গাব্দের চৈত্র) অবধি প্রবাসীতে ধারাবাহিকভাবে রচনাটি প্রকাশিত হয়।",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/BXjE",
+      "MenuId" : "20",
+      "Name" : "শেষের কবিতা",
+      "SellRate" : "100"
+    },
+    "40" : {
+      "Author" : "রবীন্দ্রনাথ ঠাকুর",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "শেষের কবিতা রবীন্দ্রনাথ ঠাকুর রচিত একটি উপন্যাস। রবীন্দ্রনাথের চিত্রসৃষ্টি পর্যায়ের দ্বিতীয় উপন্যাস (প্রথমটি যোগাযোগ) এটি। ১৯২৭ সাল (১৩৩৪ বঙ্গাব্দের ভাদ্র) থেকে ১৯২৮ সাল (১৩৩৪ বঙ্গাব্দের চৈত্র) অবধি প্রবাসীতে ধারাবাহিকভাবে রচনাটি প্রকাশিত হয়।",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/BXjE",
+      "MenuId" : "22",
+      "Name" : "শেষের কবিতা",
+      "SellRate" : "100"
+    },
+    "41" : {
+      "Author" : "রবীন্দ্রনাথ ঠাকুর",
+      "BorrowRate" : "0",
+      "DeliveryCost" : "50",
+      "Description" : "শেষের কবিতা রবীন্দ্রনাথ ঠাকুর রচিত একটি উপন্যাস। রবীন্দ্রনাথের চিত্রসৃষ্টি পর্যায়ের দ্বিতীয় উপন্যাস (প্রথমটি যোগাযোগ) এটি। ১৯২৭ সাল (১৩৩৪ বঙ্গাব্দের ভাদ্র) থেকে ১৯২৮ সাল (১৩৩৪ বঙ্গাব্দের চৈত্র) অবধি প্রবাসীতে ধারাবাহিকভাবে রচনাটি প্রকাশিত হয়।",
+      "Discount" : "15%",
+      "Image" : "https://gdurl.com/BXjE",
+      "MenuId" : "24",
+      "Name" : "শেষের কবিতা",
+      "SellRate" : "100"
+    }
+  },
+  "Category" : {
+    "01" : {
+      "Image" : "https://i.postimg.cc/YSnf0PNP/Capture.jpg",
+      "Name" : "Popular"
+    },
+    "02" : {
+      "Image" : "https://gdurl.com/xNrK",
+      "Name" : "New"
+    },
+    "03" : {
+      "Image" : "https://gdurl.com/WOSdA",
+      "Name" : "Political"
+    },
+    "04" : {
+      "Image" : "https://gdurl.com/N8fo",
+      "Name" : "Drama"
+    },
+    "05" : {
+      "Image" : "https://gdurl.com/bsPz",
+      "Name" : "Poetry"
+    },
+    "06" : {
+      "Image" : "https://gdurl.com/ZPSx",
+      "Name" : "Novel"
+    },
+    "07" : {
+      "Image" : "https://gdurl.com/efZM",
+      "Name" : "Literature"
+    },
+    "08" : {
+      "Image" : "https://gdurl.com/E2jDM",
+      "Name" : "Romantic"
+    },
+    "09" : {
+      "Image" : "https://gdurl.com/7P-C",
+      "Name" : "Love Story"
+    },
+    "10" : {
+      "Image" : "https://gdurl.com/5eIw",
+      "Name" : "Tragedy"
+    },
+    "11" : {
+      "Image" : "https://gdurl.com/QYLR",
+      "Name" : "Religious"
+    },
+    "12" : {
+      "Image" : "https://gdurl.com/qx5s",
+      "Name" : "Constitutional"
+    },
+    "13" : {
+      "Image" : "https://gdurl.com/24qI",
+      "Name" : "Historic"
+    },
+    "14" : {
+      "Image" : "https://gdurl.com/Hdzd",
+      "Name" : "Academic"
+    },
+    "15" : {
+      "Image" : "https://gdurl.com/nXDg",
+      "Name" : "True Story"
+    },
+    "16" : {
+      "Image" : "https://gdurl.com/dySo",
+      "Name" : "Short Story"
+    },
+    "17" : {
+      "Image" : "https://gdurl.com/d9CR",
+      "Name" : "Quotes"
+    },
+    "18" : {
+      "Image" : "https://gdurl.com/QGXQ",
+      "Name" : "Science"
+    },
+    "19" : {
+      "Image" : "https://gdurl.com/JHwK",
+      "Name" : "Arts"
+    },
+    "20" : {
+      "Image" : "https://gdurl.com/eyhVz",
+      "Name" : "Commerce"
+    },
+    "21" : {
+      "Image" : "https://gdurl.com/GOdk",
+      "Name" : "Business"
+    },
+    "22" : {
+      "Image" : "https://gdurl.com/g-D0",
+      "Name" : "Motivational"
+    },
+    "23" : {
+      "Image" : "https://gdurl.com/bNfQ",
+      "Name" : "Life Style"
+    },
+    "24" : {
+      "Image" : "https://gdurl.com/Yx2W",
+      "Name" : "Self Story"
+    }
+  },
+  "User" : {
+    "01767310339" : {
+      "Name" : "Alif",
+      "Password" : "abcde"
+    }
+  }
+}
